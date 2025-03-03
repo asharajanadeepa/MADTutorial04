@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">gitlab</string>
+    <string name="edtName">enter name</string>
+    <string name="edtEmail">enter email</string>
+    <string name="edtPassword">enter password</string>
+    <string name="edtReTypePassword">enter password</string>
+    <string name="btnSubmit">submit</string>
+    <string name="btnCancel">cancel</string>
+
 </resources>
